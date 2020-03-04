@@ -1,4 +1,4 @@
 
 
-email = 'cnstendifor@yahoo.com'
-password = 'amandacastrolove'
+email = input your email
+password = input your password
