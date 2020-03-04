@@ -1,0 +1,14 @@
+03/04/2020 04:01:50 AM - SeleniumWebDriver - INFO: Element Found with locator: /html/body/div[2]/div/div/div/div/div[3]/span/div[2]/button/span[2] and  locatorType: xpath
+03/04/2020 04:01:53 AM - SeleniumWebDriver - INFO: Clicked on element with locator: /html/body/div[2]/div/div/div/div/div[3]/span/div[2]/button/span[2] locatorType: xpath
+03/04/2020 04:02:08 AM - SeleniumWebDriver - INFO: Element Found with locator: //*[@id="email"] and  locatorType: xpath
+03/04/2020 04:02:08 AM - SeleniumWebDriver - INFO: Sent data on element with locator: //*[@id="email"] locatorType: xpath
+03/04/2020 04:02:09 AM - SeleniumWebDriver - INFO: Element Found with locator: //*[@id="pass"] and  locatorType: xpath
+03/04/2020 04:02:10 AM - SeleniumWebDriver - INFO: Sent data on element with locator: //*[@id="pass"] locatorType: xpath
+03/04/2020 04:02:10 AM - SeleniumWebDriver - INFO: Element Found with locator: //*[@id="u_0_0"] and  locatorType: xpath
+03/04/2020 04:02:14 AM - SeleniumWebDriver - INFO: Clicked on element with locator: //*[@id="u_0_0"] locatorType: xpath
+03/04/2020 04:02:19 AM - SeleniumWebDriver - INFO: Element Found with locator: //*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]/span and  locatorType: xpath
+03/04/2020 04:02:20 AM - SeleniumWebDriver - INFO: Clicked on element with locator: //*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]/span locatorType: xpath
+03/04/2020 04:02:20 AM - SeleniumWebDriver - INFO: Element Found with locator: //*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]/span and  locatorType: xpath
+03/04/2020 04:02:21 AM - SeleniumWebDriver - INFO: Clicked on element with locator: //*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]/span locatorType: xpath
+03/04/2020 04:02:51 AM - SeleniumWebDriver - ERROR: Element not found with locator: //*[@id="content"]/div/div[1]/div/div/main/div/div[1]/div/div[2]/div[4]/button and  locatorType: xpath
+03/04/2020 04:02:51 AM - SeleniumWebDriver - ERROR: Cannot click on the element with locator: //*[@id="content"]/div/div[1]/div/div/main/div/div[1]/div/div[2]/div[4]/button locatorType: xpath

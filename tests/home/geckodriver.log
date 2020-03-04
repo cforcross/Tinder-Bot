@@ -1,0 +1,692 @@
+1583159407365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileKoKxKD"
+1583159417279	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+console.log: "RemoteSettingsWorker error: AbortError: The operation was aborted. "
+1583159418699	addons.xpi-utils	WARN	Failed to save XPI database: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2571: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileoRLGXr"
+1583159508809	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583159510679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583159510680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583159510680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583159510680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583160339917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileTlgJpB"
+1583160341379	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583160343782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583160343783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583160343783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583160343783	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583160348283	Marionette	INFO	Listening on port 53302
+1583160348344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583160494396	Marionette	INFO	Stopped listening on port 53302
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583160513914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileZbStaE"
+1583160515131	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583160516893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583160516893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583160516894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583160516894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583160521467	Marionette	INFO	Listening on port 53375
+1583160521851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583160691557	Marionette	INFO	Stopped listening on port 53375
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilemYKiLQ"
+1583160588897	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583160590771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583160590771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583160590771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583160590771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583160594961	Marionette	INFO	Listening on port 53521
+1583160595338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583160610947	Marionette	INFO	Stopped listening on port 53521
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583160775746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileO1dkOm"
+1583160776735	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583160778466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583160778466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583160778466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583160778467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583160782626	Marionette	INFO	Listening on port 53636
+1583160783106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583161638205	Marionette	INFO	Stopped listening on port 53636
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilee3Ho9A"
+1583160850758	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583160852380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583160852380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583160852380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583160852380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583160856289	Marionette	INFO	Listening on port 53707
+1583160856544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583160865920	Marionette	INFO	Stopped listening on port 53707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583161678600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilePGHne6"
+1583161679507	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583161680748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583161680749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583161680749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583161680749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583161684927	Marionette	INFO	Listening on port 53857
+1583161684950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583161689078	Marionette	INFO	Stopped listening on port 53857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583161880587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileF45tyF"
+1583161881401	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583161882703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583161882704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583161882704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583161882704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583161886194	Marionette	INFO	Listening on port 53909
+1583161886331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583161891016	Marionette	INFO	Stopped listening on port 53909
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583179542483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileUiOkBH"
+1583179543782	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583179545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583179545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583179545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583179545622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583179551921	Marionette	INFO	Listening on port 61087
+1583179551949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583179559992	Marionette	INFO	Stopped listening on port 61087
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583180751281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileIU4FRR"
+1583180754515	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583180756278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583180756278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583180756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583180756279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583180770307	Marionette	INFO	Listening on port 61436
+1583180771012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583180774622	Marionette	INFO	Stopped listening on port 61436
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1583182500899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileXxCvAo"
+1583182507806	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583182510480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583182510481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583182510481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583182510481	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+out of memory: 0x0000000000001178 bytes requested
+out of memory: 0x0000000000003528 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370022,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370022,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370064,name=PContent::Msg_SetPluginList) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2358 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2358:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+
+1583182520716	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1583182520716	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1583182520717	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+1583182520717	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2358:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2358:39
+build@ext-backgroundPage.js:73:20
+[Parent 6448, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: resource://gre/modules/CrashService.jsm, line 193: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsICrashReporter.getMinidumpForID]
+[GFX1-]: Failed to resize swap chain buffers: 0x8007000e
+[GFX1-]: Could not resize the swapchain (0x556,0x307)
+1583182601088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileiF8tSU"
+1583182602589	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583182604075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583182604076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583182604076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583182604076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/XULSJavaScript error: , line 0: uncaught exception: out of memory
+tore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000001000 bytes requested
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000001000 bytes requested
+Exiting due to channel error.
+1583194162550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilexcfOKO"
+1583194165468	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583194167498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583194167498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583194167499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583194167499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583194190024	Marionette	INFO	Listening on port 62842
+1583194190710	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(1024,683) Code: 0x8007000e format 1
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1]: Failed to GetDataSurface in D3D11TextureData::Create
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1]: Failed to GetDataSurface in D3D11TextureData::Create
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1]: Failed to GetDataSurface in UpdateFromSurface (BT).
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[Parent 8808, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583194251170	Marionette	INFO	Stopped listening on port 62842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583194389522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilebjxKQu"
+1583194394075	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583194395910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583194395910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583194395911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583194395911	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583194400992	Marionette	INFO	Listening on port 62931
+1583194401086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583194413695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+out of memory: 0x0000000000012ACA bytes requested
+out of memory: 0x000000000000D8AC bytes requested
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(1024,683) Code: 0x8007000e format 1
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 529, 1366, 82
+1583194610047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofileTpk0b9"
+1583194613403	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583194614986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583194614986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583194614986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583194614987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583194620227	Marionette	INFO	Listening on port 63014
+1583194620506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583194634882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[GFX1-]: Could not create swap chain: 0x8007000e
+[GFX1-]: [D3D11] create swap chain failed: 0x8007000e, 0
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+[GFX1-]: Compositors might be mixed (3,1)
+[GFX1-]: Failed buffer for 0, 0, 600, 716
+_create_dc_and_bitmap: Not enough memory resources are available to process this command.
+[GFX1]: Failed to create similar cairo surface! Size: Size(600,716) Status: 10 format 1
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=a7a92b1516b5b53ea3276cf2d23d1909, line 326: uncaught exception: out of memory
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=a7a92b1516b5b53ea3276cf2d23d1909, line 326: uncaught exception: out of memory
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=a7a92b1516b5b53ea3276cf2d23d1909, line 326: uncaught exception: out of memory
+[GFX1-]: Failed buffer for 0, 0, 600, 716
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000001FF0 bytes requested
+1583194754747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofiler516tA"
+1583194756802	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583194758269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583194758269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583194758270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583194758270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583194762347	Marionette	INFO	Listening on port 63082
+1583194762613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i6N34/ye/l/en_GB/72ctvg5hG6r.js?_nc_x=Ij3Wp8lg5Kz, line 126: SyntaxError: unexpected token: ')'
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 529, 1366, 82
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(1024,683) Code: 0x8007000e format 1
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,529)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 529
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1]: Failed to GetDataSurface in D3D11TextureData::Create
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 529, 1366, 82
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 529, 1366, 82
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 529, 1366, 82
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/fdMxNrg-sJ-.js?_nc_x=Ij3Wp8lg5Kz, line 49: TypeError: can't assign to property "fileName" on "out of memory": not an object
+JavaScript error: , line 0: uncaught exception: out of memory
+Exiting due to channel error.
+1583199030430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofile3r95l7"
+1583199036262	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583199038065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583199038066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583199038066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583199038066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583199065996	Marionette	INFO	Listening on port 64429
+1583199066424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1583199175126	Marionette	INFO	Stopped listening on port 64429
+1583199482348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofilehpN3Bi"
+1583199486874	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583199488554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583199488554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583199488554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583199488554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583199498343	Marionette	INFO	Listening on port 64620
+1583199498630	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1024,683) Code: 0x8007000e
+[GFX1]: Failed to GetDataSurface in D3D11TextureData::Create
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1024,683)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 404
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,404)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,611)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 611
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,82)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1366,693)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1366, 693
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1583202717657	Marionette	INFO	Stopped listening on port 64620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583267975852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\phoex\\AppData\\Local\\Temp\\rust_mozprofiletC1XOK"
+1583267981079	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583267982913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583267982914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583267982914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583267982914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583268000335	Marionette	INFO	Listening on port 54976
+JavaScript error: chrome://marionette/content/server.js, line 105: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.close]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
